@@ -28,13 +28,23 @@ Due to the size of the files, we cannot host the full input & output data here. 
 ## authors
 
 Oliver J. Hall (@ojhall94) [*corresponding author*]
+
 Guy R. Davies (@grd349)
+
 Yvonne Elsworth
+
 Andrea Miglio
+
 Timothy R. Bedding (@timbedding)
+
 Anthony G. A. Brown (@agabrown)
+
 Saniya Khan (@niyachan)
+
 Keith Hawkins (@keithhawkins)
+
 Rafael A. Garcia
+
 William J. Chaplin
+
 Thomas S. H. North (@tn143)
