@@ -1,5 +1,5 @@
 # halletal2019
-[![arXiv](http://img.shields.io/badge/arXiv-1510.00008-blue.svg?style=flat)](http://arxiv.org/abs/????)
+[![arXiv](http://img.shields.io/badge/arXiv-1904.07919-blue.svg?style=flat)](https://arxiv.org/abs/1904.07919)
 
 This repository hosts a tidied version of the code associated with Hall et al. (2019). I've stripped away unused or broken scripts and endless, endless tests. If you're interested in looking at those anyway, the full repository of everything we did on this project can be found here: https://www.github.com/ojhall94/GAIA
 
