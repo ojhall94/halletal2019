@@ -14,6 +14,31 @@ Due to the size of the files, we cannot host the full input & output data here. 
 
 `ojh251 [at] student.bham.ac.uk`
 
+## citation
+
+If using any of our code or results, please cite our paper using the following BibTex entry:
+
+```
+@ARTICLE{2019MNRAS.tmp.1036H,
+       author = {{Hall}, Oliver J. and {Davies}, Guy R. and {Elsworth}, Yvonne P. and
+         {Miglio}, Andrea and {Bedding}, Timothy R. and {Brown}, Anthony G.~A. and
+         {Khan}, Saniya and {Hawkins}, Keith and {Garc{\'\i}a}, Rafael A. and
+         {Chaplin}, William J. and {North}, Thomas S.~H.},
+        title = "{Testing asteroseismology with Gaia DR2: Hierarchical models of the Red Clump}",
+      journal = {\mnras},
+     keywords = {parallax, asteroseismology, stars: fundamental parameters, stars: statistics, Astrophysics - Solar and Stellar Astrophysics},
+         year = "2019",
+        month = "Apr",
+        pages = {1036},
+          doi = {10.1093/mnras/stz1092},
+archivePrefix = {arXiv},
+       eprint = {1904.07919},
+ primaryClass = {astro-ph.SR},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2019MNRAS.tmp.1036H},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+```
+
 ## authors
 
 Oliver J. Hall (@ojhall94) [*corresponding author*]
