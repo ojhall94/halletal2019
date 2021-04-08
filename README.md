@@ -12,7 +12,7 @@ Asteroseismology provides fundamental stellar parameters independent of distance
 
 Due to the size of the files, we cannot host the full input & output data here. The output however should be fully reproducible if the random seeds in the code remain unchanged. If you are interested in obtaining these data (for example for reproducing the work, or using our posterior samples as priors in your own work), please contact:
 
-`ojh251 [at] student.bham.ac.uk`
+`oliver.hall [at] esa [dot] int`
 
 ## citation
 
